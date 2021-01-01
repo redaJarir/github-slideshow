@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Et patatiii patata paranti rantam et patatiii patata paranti rantaaam
+:) My first action :) 
 Use the left arrow to go back!
